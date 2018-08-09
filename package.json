@@ -1,0 +1,15 @@
+{
+  "name": "fg-server",
+  "version": "1.0.0",
+  "description": "Node Server for FG App",
+  "main": "index.js",
+  "scripts": {
+    "test": "test",
+    "start": "node index.js"
+  },
+  "author": "Jeffrey Vang",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
